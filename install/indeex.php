@@ -92,7 +92,7 @@ else
   <form id="fm-form" method="post" action="index.php" > 
 
     <div class="fm-req"> 
-      <label for="uname">Username:</label> 
+      <label for="uname">User id:</label> 
       <input name="uname" id="uname" type="text" maxlength="20" size="15"/> 
     </div> 
     <div class="fm-req"> 
@@ -110,3 +110,4 @@ else
  </div>
 </body>
 </html>
+
